@@ -6,4 +6,4 @@ The Hypertext Transfer Protocol (otherwise known as HTTP) was develop in 1989 by
 
 ## HTTP/1.1 issues
 
-Give that it has been in use for over 15 years without any ammendments, HTTP/1.1 has number of design limitation that were not apparent in 1999. In 1999, the Web was a much more simpler compared to todays landscape. An example of such limitations are that no single server can serve a connection more than two resources at a time. 
+Give that it has been in use for such a long time without any ammendments, HTTP/1.1 has number of design limitation that were not apparent in 1999. In 1999, the Web was a much more simpler compared to todays landscape. An example of such limitations are that no single server can serve a connection more than two resources at a time. 
